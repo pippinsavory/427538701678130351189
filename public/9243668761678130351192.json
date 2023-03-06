@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "579726757564",
+    "project_id": "katsnicedev-bb0cb",
+    "storage_bucket": "katsnicedev-bb0cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579726757564:android:9cb9d15f5cf448b2904ab9",
+        "android_client_info": {
+          "package_name": "com.KatsNiceDev.ModBussidBerlumpurExtreme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzZWEYRsZBeCf67yIn-LwhMLhgvXnCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7867456558290537~9140144412"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579726757564:android:27c15c62117557db904ab9",
+        "android_client_info": {
+          "package_name": "com.katsnicedev.BussidMotorDragRacing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzZWEYRsZBeCf67yIn-LwhMLhgvXnCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7867456558290537~3006468609"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579726757564:android:f6b9094d8b0a185c904ab9",
+        "android_client_info": {
+          "package_name": "com.katsnicedev.bocatocawallpapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzZWEYRsZBeCf67yIn-LwhMLhgvXnCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7867456558290537~4754497643"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579726757564:android:d49f509320fda61c904ab9",
+        "android_client_info": {
+          "package_name": "com.katsnicedev.gachaideasclubgirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzZWEYRsZBeCf67yIn-LwhMLhgvXnCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7867456558290537~6996559747"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579726757564:android:1949567427e53b73904ab9",
+        "android_client_info": {
+          "package_name": "com.katsnicedev.stickerswednesdaymerlina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzZWEYRsZBeCf67yIn-LwhMLhgvXnCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7867456558290537~3686902527"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579726757564:android:9783f866c6cd9b53904ab9",
+        "android_client_info": {
+          "package_name": "com.katsnicedev.worldcupqatar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzZWEYRsZBeCf67yIn-LwhMLhgvXnCr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579726757564-8cio2fte4nfr7cjothkk9herv76r3hrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-7867456558290537~9880800463"
+    }
+  ],
+  "configuration_version": "1"
+}
