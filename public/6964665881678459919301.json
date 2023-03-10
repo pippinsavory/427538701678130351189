@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "965045522163",
+    "project_id": "katsnicedev",
+    "storage_bucket": "katsnicedev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965045522163:android:5795e8a164ce6d83ff7186",
+        "android_client_info": {
+          "package_name": "com.katsnicedev.spidermanforminecraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965045522163-e29igsvhr3l7qlp2ea6i44bvbqmmpati.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzpim7dhZRuYlW-g9daudzjw9ooczU3vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965045522163-e29igsvhr3l7qlp2ea6i44bvbqmmpati.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-4463720854927254~4634004372"
+    }
+  ],
+  "configuration_version": "1"
+}
